@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Dela+Gothic+One&family=Euphoria+Script&family=Gruppo&family=Playfair+Display:wght@500&family=Roboto+Condensed:wght@300&family=Rochester&family=Teko:wght@300;400;500;600;700&display=swap');
+*{
+    padding:0px;
+    margin:0px;
+}
+
+body{
+    margin:0px;
+    padding:0px;
+}
 .inside-border{
     /* border: 1px solid white; */
     height: 10vh;
@@ -85,7 +95,7 @@
 .suggested-people{
     display: flex;
     /* border: 2px solid purple; */
-    margin-top: 4px;
+    margin-top: 30px;
     justify-content: space-between;
 }
 
@@ -97,6 +107,7 @@
     /* border: 1px solid yellow; */
     margin-right: 90px;
     margin-left: 60px;
+    font-family: sans-serif;
 }
 .suggested-user p{
     font-size: 10px;

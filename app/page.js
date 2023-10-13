@@ -5,7 +5,7 @@ import Effect from './components/Follow'
 function Page() {
   return (
     <>
-      <Effect/>
+      {/* <Effect/> */}
       <Suggestion/>
     </>
   )
